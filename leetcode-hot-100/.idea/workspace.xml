@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f3f36db-021a-4768-810e-cf06aa6f6332" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem160/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem200/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem200/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem198/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem207/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem70/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +35,29 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3BQwHyeext2tI7FlqYzBh7VRK73" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +74,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774434519813</updated>
-      <workItem from="1774434521304" duration="5399000" />
+      <workItem from="1774434521304" duration="11087000" />
+      <workItem from="1774512212046" duration="36000" />
+      <workItem from="1774537419511" duration="1677000" />
     </task>
     <servers />
   </component>
