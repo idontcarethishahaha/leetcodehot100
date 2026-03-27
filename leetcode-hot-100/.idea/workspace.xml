@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f3f36db-021a-4768-810e-cf06aa6f6332" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem198/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem207/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem70/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem287_/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem287_/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem300_/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem207/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem207_/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,8 @@
       <updated>1774434519813</updated>
       <workItem from="1774434521304" duration="11087000" />
       <workItem from="1774512212046" duration="36000" />
-      <workItem from="1774537419511" duration="1677000" />
+      <workItem from="1774537419511" duration="2278000" />
+      <workItem from="1774597485469" duration="3568000" />
     </task>
     <servers />
   </component>
