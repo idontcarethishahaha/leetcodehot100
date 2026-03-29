@@ -5,20 +5,6 @@ Java 题解 | 面试高频 | 持续更新
 
 ### 📊 刷题进度
 <div align="center">
-  <!-- 纯静态 SVG 圆环，100% 本地渲染，零依赖 -->
-  <svg width="200" height="200" viewBox="0 0 200 200">
-    <!-- 背景圆环 -->
-    <circle cx="100" cy="100" r="80" fill="none" stroke="#f0f0f0" stroke-width="12"/>
-    <!-- 进度圆环（22% 进度，固定数值，绝对稳定） -->
-    <circle cx="100" cy="100" r="80" fill="none" stroke="#00c853" stroke-width="12"
-            stroke-linecap="round"
-            stroke-dasharray="502.65"
-            stroke-dashoffset="392.07"
-            transform="rotate(-90 100 100)"/>
-    <!-- 进度文字 -->
-    <text x="100" y="95" font-size="36" font-weight="bold" text-anchor="middle" fill="#333">22/100</text>
-    <text x="100" y="125" font-size="16" text-anchor="middle" fill="#00c853">✅ 已完成</text>
-  </svg>
 
   <!-- 难度统计，纯文字，零样式，绝对不会乱 -->
   <div style="text-align: center; margin-top: 16px;">
