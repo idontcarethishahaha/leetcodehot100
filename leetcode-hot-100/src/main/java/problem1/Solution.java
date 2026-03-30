@@ -11,6 +11,6 @@ class Solution {
                 }
             }
         }
-        return new int[0];//因为必须返回一个int数组
+        return new int[0];//因为必须返回一个int数组，保护代码
     }
 }

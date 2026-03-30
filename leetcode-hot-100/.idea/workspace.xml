@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3f36db-021a-4768-810e-cf06aa6f6332" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem287_/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem287_/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem300_/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/problem207/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem207_/Solution.java" afterDir="false" />
+    <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/problem88/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/problem88/acm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem142/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem146_LRU/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem15_三数之和/acm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem206/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem206/acm/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem56_合并区间/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem56_合并区间/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem56_合并区间/自定义排序模板（Java ）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem5_/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem160/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem160/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem198/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem198/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem287_/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem287_/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem70/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem70/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +48,20 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="3BQwHyeext2tI7FlqYzBh7VRK73" />
+  <component name="ProjectId" id="3BZ4hyTV3cduQZhcCwzCVvbqy5Z" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/leetcodehot100/leetcode-hot-100/src/main/java/problem56_合并区间&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -56,8 +70,38 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\leetcodehot100\leetcode-hot-100\src\main\java\problem56_合并区间" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem206.acm.Solution" />
+      <module name="leetcode-hot-100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem206.acm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,30 +113,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f3f36db-021a-4768-810e-cf06aa6f6332" name="Changes" comment="" />
-      <created>1774434519813</created>
+      <changelist id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="" />
+      <created>1774683381393</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1774434519813</updated>
-      <workItem from="1774434521304" duration="11087000" />
-      <workItem from="1774512212046" duration="36000" />
-      <workItem from="1774537419511" duration="2278000" />
-      <workItem from="1774597485469" duration="3568000" />
+      <updated>1774683381393</updated>
+      <workItem from="1774683382373" duration="4837000" />
+      <workItem from="1774699176488" duration="3359000" />
+      <workItem from="1774708602432" duration="1726000" />
+      <workItem from="1774746963336" duration="2038000" />
+      <workItem from="1774760668262" duration="61000" />
+      <workItem from="1774760788964" duration="5794000" />
+      <workItem from="1774859388945" duration="2972000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

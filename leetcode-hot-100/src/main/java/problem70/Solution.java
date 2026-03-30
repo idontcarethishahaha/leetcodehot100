@@ -1,5 +1,7 @@
 package problem70;
 
+// 一维DP,跳楼梯
+
 public class Solution {
     public int climbStairs(int n){
         //只有一阶，只有一种走法

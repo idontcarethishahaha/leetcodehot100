@@ -11,7 +11,7 @@ class ListNode{
         next=null;
     }
 }
-
+// 相交链表，返回相交节点
 
 //解法一，哈希集合
 public class Solution {
@@ -24,7 +24,7 @@ public class Solution {
             set.add(cur);
             cur=cur.next;
         }
-        cur=headB;//重置临时指针
+        cur=headB;//重置临时指针，遍历B
         while(cur!=null){
             if(set.contains(cur)){//该节点也有在A链表中出现
                 return cur;//返回相交节点
