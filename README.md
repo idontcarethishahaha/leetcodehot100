@@ -6,11 +6,9 @@ Java 题解 | 面试高频 | 持续更新
 ### 📊 刷题进度
 <div align="center">
 
-  <!-- 难度统计，纯文字，零样式，绝对不会乱 -->
   <div style="text-align: center; margin-top: 16px;">
-    <p style="font-size: 20px; font-weight: bold; margin: 0;">总进度：22/100 ✅ 已完成</p>
+    <p style="font-size: 20px; font-weight: bold; margin: 0;">总进度：/100 ✅ 已完成</p>
     <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">
-      🟢 简单：8/21  🟡 中等：13/66  🔴 困难：1/13
     </p>
   </div>
 </div>
