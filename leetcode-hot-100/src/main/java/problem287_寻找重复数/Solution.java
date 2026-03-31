@@ -1,23 +1,28 @@
-package problem287_;
+package problem287_寻找重复数;
 
 // 题目核心限制：不能修改数组 + 只能用 O (1) 额外空间
 // 快慢指针，时间复杂度 O (n)，空间复杂度 O (1)
 public class Solution {
     public int findDuplicate(int[] nums) {
-        // 1. 快慢指针找相遇点
+        // 1. 快慢指针都从 0 出发
         int slow = 0, fast = 0;
+
+        // 2. 第一次相遇：判断有环
         do {
             slow = nums[slow];       // 慢指针走1步
             fast = nums[nums[fast]]; // 快指针走2步
-        } while (slow != fast);
+        } while (slow != fast);      // 直到相遇
 
-        // 2. 慢指针回起点，同速走找环入口
+        // 3. 慢指针回到起点，准备找环入口
         slow = 0;
+
+        // 4. 一起走一步，再次相遇就是环入口 = 重复数
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[fast];
         }
-        return slow; // 相遇点就是重复数
+
+        return slow; // 答案
     }
 }
 /*

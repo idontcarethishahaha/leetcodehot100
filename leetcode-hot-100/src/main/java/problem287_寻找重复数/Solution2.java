@@ -1,4 +1,4 @@
-package problem287_;
+package problem287_寻找重复数;
 
 /**
  * 类说明：
