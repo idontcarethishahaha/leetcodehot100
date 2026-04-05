@@ -1,4 +1,4 @@
-package problem200;
+package problem200_岛屿数量;
 
 //解法一，dfs深度优先搜索
 class Solution {

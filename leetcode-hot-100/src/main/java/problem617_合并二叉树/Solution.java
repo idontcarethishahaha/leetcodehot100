@@ -19,9 +19,17 @@ class TreeNode{
     }
 }
 //dfs
+/*
+把两棵树对应位置的节点值相加，重叠的地方就加起来，空的地方就直接用另一棵树的节点。
+规则超级简单：
+两个节点都有值 → 相加
+一个有、一个空 → 用有值的那个
+两个都空 → 空
+ */
 class Solution {
    public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
        // t1为空，直接返回t2
+       // 若 第一棵树的当前节点为空，则直接返回第二棵树的节点
       if(t1==null){
           return t2;
       }

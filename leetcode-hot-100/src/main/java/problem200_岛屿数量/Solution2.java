@@ -1,4 +1,4 @@
-package problem200;
+package problem200_岛屿数量;
 
 import java.util.LinkedList;
 import java.util.Queue;

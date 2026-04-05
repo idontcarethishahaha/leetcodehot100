@@ -1,4 +1,4 @@
-package problem206;
+package problem206_反转链表;
 
 // 反转链表
 
