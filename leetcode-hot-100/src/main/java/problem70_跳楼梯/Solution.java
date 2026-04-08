@@ -1,4 +1,4 @@
-package problem70;
+package problem70_跳楼梯;
 
 // 一维DP,跳楼梯
 
