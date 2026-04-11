@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem121_买卖股票的最佳时机/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem21_合并2个有序链表/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem221_最大正方形/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem23_合并k个升序链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem23_合并k个升序链表/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem337_打家劫舍3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem338_比特位计数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem338_比特位计数/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem338_比特位计数/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/problem21_合并2个有序链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem21_合并2个有序链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/LCR095_最长公共子序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/LCR194_二叉树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/LCR194_二叉树的最近公共祖先/acm/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +162,8 @@
       <workItem from="1775728185463" duration="3377000" />
       <workItem from="1775788236006" duration="1218000" />
       <workItem from="1775789590135" duration="9854000" />
-      <workItem from="1775825445993" duration="1228000" />
+      <workItem from="1775825445993" duration="2792000" />
+      <workItem from="1775916662566" duration="1335000" />
     </task>
     <servers />
   </component>
