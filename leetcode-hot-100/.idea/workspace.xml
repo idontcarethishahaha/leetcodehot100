@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem200_岛屿数量/acm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem200_岛屿数量/变体/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem48/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem56_合并区间/变体/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/LCR095_最长公共子序列/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/LCR095_最长公共子序列/变体/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     "Application.MergeTwoSortedLists.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.overhot100.LCR095_最长公共子序列.变体.Main.executor": "Run",
     "Application.problem146_LRU.变体.Main.executor": "Run",
     "Application.problem200_岛屿数量.变体.Main.executor": "Run",
     "Application.problem56_合并区间.变体.Main.executor": "Run",
@@ -76,7 +75,7 @@
       <recent name="D:\code\leetcodehot100\leetcode-hot-100\src\main\java\problem56_合并区间" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.problem146_LRU.变体.Main">
+  <component name="RunManager" selected="Application.overhot100.LCR095_最长公共子序列.变体.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem200_岛屿数量.acm.Main" />
       <module name="leetcode-hot-100" />
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem21_合并2个有序链表.Test" />
+    <configuration name="overhot100.LCR095_最长公共子序列.变体.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overhot100.LCR095_最长公共子序列.变体.Main" />
       <module name="leetcode-hot-100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem21_合并2个有序链表.*" />
+          <option name="PATTERN" value="overhot100.LCR095_最长公共子序列.变体.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.overhot100.LCR095_最长公共子序列.变体.Main" />
         <item itemvalue="Application.problem146_LRU.变体.Main" />
         <item itemvalue="Application.problem56_合并区间.变体.Main" />
         <item itemvalue="Application.problem200_岛屿数量.变体.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +199,8 @@
       <workItem from="1775955997096" duration="4934000" />
       <workItem from="1776044240762" duration="7731000" />
       <workItem from="1776220881268" duration="1807000" />
-      <workItem from="1776262557826" duration="422000" />
+      <workItem from="1776262557826" duration="1154000" />
+      <workItem from="1776304815072" duration="1097000" />
     </task>
     <servers />
   </component>
