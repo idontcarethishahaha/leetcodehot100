@@ -1,6 +1,4 @@
-package overhot100.problem88.acm;
-
-import java.util.*;
+package overhot100.problem88_合并两个有序数组.acm;
 
 public class Main {
     // 合并两个有序数组（从后往前双指针）

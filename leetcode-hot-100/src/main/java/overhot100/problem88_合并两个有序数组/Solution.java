@@ -1,4 +1,4 @@
-package overhot100.problem88;
+package overhot100.problem88_合并两个有序数组;
 
 // 合并2个有序数组
 /*
