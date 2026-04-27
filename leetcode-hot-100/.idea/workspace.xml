@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/overhot100/problem440_字典序的第k小数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overhot100/problem440_字典序的第k小数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem42_接雨水/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem42_接雨水/acm/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +76,26 @@
       <recent name="D:\code\leetcodehot100\leetcode-hot-100\src\main\java\problem56_合并区间" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DigitDpSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="overhot100.小于n的最大数.DigitDpSolution" />
       <module name="leetcode-hot-100" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="overhot100.小于n的最大数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem42_接雨水.acm.Main" />
+      <module name="leetcode-hot-100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem42_接雨水.acm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem56_合并区间.变体.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem56_合并区间.变体.Main" />
-      <module name="leetcode-hot-100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem56_合并区间.变体.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DigitDpSolution" />
         <item itemvalue="Application.overhot100.LCR095_最长公共子序列.变体.Main" />
         <item itemvalue="Application.problem146_LRU.变体.Main" />
-        <item itemvalue="Application.problem56_合并区间.变体.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +205,8 @@
       <workItem from="1776519893508" duration="4272000" />
       <workItem from="1777035038376" duration="2680000" />
       <workItem from="1777126707814" duration="342000" />
+      <workItem from="1777165675234" duration="12000" />
+      <workItem from="1777298699326" duration="934000" />
     </task>
     <servers />
   </component>
