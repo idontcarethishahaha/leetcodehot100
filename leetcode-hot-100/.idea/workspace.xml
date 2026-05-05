@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem42_接雨水/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem42_接雨水/acm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/problem14_最长公共前缀/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,43 +39,44 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DigitDpSolution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.overhot100.LCR095_最长公共子序列.变体.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.problem146_LRU.变体.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.problem200_岛屿数量.变体.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.problem56_合并区间.变体.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SuperMew-main/backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DigitDpSolution.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeTwoSortedLists.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.overhot100.LCR095_最长公共子序列.变体.Main.executor": "Run",
+    "Application.overhot100.problem14_最长公共前缀.Main.executor": "Run",
+    "Application.problem146_LRU.变体.Main.executor": "Run",
+    "Application.problem200_岛屿数量.变体.Main.executor": "Run",
+    "Application.problem56_合并区间.变体.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SuperMew-main/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\leetcodehot100\leetcode-hot-100\src\main\java\problem56_合并区间" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.overhot100.problem14_最长公共前缀.Main">
     <configuration name="DigitDpSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="overhot100.小于n的最大数.DigitDpSolution" />
       <module name="leetcode-hot-100" />
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem146_LRU.变体.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem146_LRU.变体.Main" />
+    <configuration name="overhot100.problem14_最长公共前缀.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overhot100.problem14_最长公共前缀.Main" />
       <module name="leetcode-hot-100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem146_LRU.变体.*" />
+          <option name="PATTERN" value="overhot100.problem14_最长公共前缀.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.overhot100.problem14_最长公共前缀.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DigitDpSolution" />
         <item itemvalue="Application.overhot100.LCR095_最长公共子序列.变体.Main" />
-        <item itemvalue="Application.problem146_LRU.变体.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +206,8 @@
       <workItem from="1777035038376" duration="2680000" />
       <workItem from="1777126707814" duration="342000" />
       <workItem from="1777165675234" duration="12000" />
-      <workItem from="1777298699326" duration="934000" />
+      <workItem from="1777298699326" duration="2063000" />
+      <workItem from="1777976702535" duration="136000" />
     </task>
     <servers />
   </component>
