@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68727de-190d-4336-bfb6-d09bdddff827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/overhot100/problem14_最长公共前缀/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem215/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,38 +39,38 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DigitDpSolution.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MergeTwoSortedLists.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.overhot100.LCR095_最长公共子序列.变体.Main.executor": "Run",
-    "Application.overhot100.problem14_最长公共前缀.Main.executor": "Run",
-    "Application.problem146_LRU.变体.Main.executor": "Run",
-    "Application.problem200_岛屿数量.变体.Main.executor": "Run",
-    "Application.problem56_合并区间.变体.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SuperMew-main/backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DigitDpSolution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overhot100.LCR095_最长公共子序列.变体.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overhot100.problem14_最长公共前缀.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem146_LRU.变体.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem200_岛屿数量.变体.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem56_合并区间.变体.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SuperMew-main/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/leetcodehot100/leetcode-hot-100/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\leetcodehot100\leetcode-hot-100\src\main\java\problem56_合并区间" />
@@ -207,7 +207,8 @@
       <workItem from="1777126707814" duration="342000" />
       <workItem from="1777165675234" duration="12000" />
       <workItem from="1777298699326" duration="2063000" />
-      <workItem from="1777976702535" duration="136000" />
+      <workItem from="1777976702535" duration="3992000" />
+      <workItem from="1778164231655" duration="349000" />
     </task>
     <servers />
   </component>
