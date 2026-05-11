@@ -23,3 +23,17 @@ Java 题解
 ### 二叉树
 1.leetcode94 二叉树的中序遍历
 2.leetcode98 验证二叉搜索树
+
+### 深度优先搜索DFS
+1.leetcode200 岛屿数量
+
+### 广度优先搜索BFS
+
+### 动态规划DP
+1.leetcode64 最小路径和
+2.leetcode70 爬楼梯
+3.leetcode53 最大子数组和
+4.leetcode152 乘积最大子数组
+5.leetcode198 打家劫舍
+6.leetcode221 最大正方形
+7.leetcode322 零钱兑换
