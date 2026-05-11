@@ -1,19 +1,6 @@
-## 🔥 LeetCode 热题 Hot 100
-Java 题解 | 面试高频 | 持续更新
+## 🔥 LeetCode 热题 Hot 100(外加一些别的常见题)
+Java 题解
 
----
-
-### 📊 刷题进度
-<div align="center">
-
-  <div style="text-align: center; margin-top: 16px;">
-    <p style="font-size: 20px; font-weight: bold; margin: 0;">总进度：/100 ✅ 已完成</p>
-    <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">
-    </p>
-  </div>
-</div>
-
----
 
 ### 🎯 题目分类
 <div align="center">
@@ -27,15 +14,11 @@ Java 题解 | 面试高频 | 持续更新
   <img src="https://img.shields.io/badge/-DFS/BFS-1E90FF?style=flat-square" alt="DFS">
 </div>
 
----
+### 题目整理
 
-### 📖 仓库介绍
-本仓库用于记录 **LeetCode 精选 Hot 100** 高频面试题，全部使用 Java 实现，包含：
-- 清晰解题思路
-- 最优代码实现
-- 时间/空间复杂度分析
-- 面试考点与易错点总结
+#### 双指针解法
+1.leetcode15 三数之和
+2.leetcode75 颜色分类
 
----
-
-### 📁 目录结构
+### 二叉树
+1.leetcode94 二叉树的中序遍历
